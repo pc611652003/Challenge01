@@ -41,12 +41,12 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-/* End of nav-bar */
 
-a {
+.link-text {
     color: #ffffff;
     text-decoration: none;
 }
+/* End of nav-bar */
 
 p {
     font-size: 16px;
