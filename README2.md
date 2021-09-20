@@ -17,5 +17,10 @@ Changes Made to the coding
 5. Creating class "content-image" and "content-title"
     -Making CSS codes indicates their targets more obviously.
     -Grouping codes for several objects that having same design together, making code more clear.
-    
+
+6. Creating class "benefits-title" and "benefits-image"
+    -Making CSS codes indicates their targets more obviously.
+    -Grouping codes for several objects that having same design together, making code more clear.
+
+
 
