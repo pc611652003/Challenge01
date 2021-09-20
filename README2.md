@@ -11,5 +11,11 @@ Changes Made to the coding
 3. Changing <div> of class hero, content and benefits, to <section>
     -Changing to section makes it easier to identify codes for each different parts of the website.
 
+4. Changing the order of some CSS declaration to put everything related content together
+    -Grouping the styles together without affecting the website, make coding more organized.
 
+5. Creating class "content-image" and "content-title"
+    -Making CSS codes indicates their targets more obviously.
+    -Grouping codes for several objects that having same design together, making code more clear.
+    
 
