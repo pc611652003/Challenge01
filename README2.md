@@ -22,5 +22,6 @@ Changes Made to the coding
     -Making CSS codes indicates their targets more obviously.
     -Grouping codes for several objects that having same design together, making code more clear.
 
-
+7. Changing <div class="footer"> into <footer>
+    -Using default type name to avoid potential confusion.
 
